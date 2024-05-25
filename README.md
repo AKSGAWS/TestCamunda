@@ -9,5 +9,6 @@
 # POM.xml
   All the Camunda related dependencies have been added here
 
-  
+BPMN_Diagram - Displays BPMN for the Application
+Form_Diagram - Displays Form for the Application
   
